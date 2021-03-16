@@ -1,4 +1,4 @@
-# Tracking Challenges
+# Moveit
 
 > A NextJS app that gives you an exercise challenge after a 25 minutes timer.
 
